@@ -89,6 +89,8 @@ namespace TasKagıtMAkas
                 }
                 Console.WriteLine($"Your score {playerScore} and computer's score {computerScore}");
                 Console.WriteLine("press enter to contınue.");
+                Console.WriteLine("asdasdasdasd");
+                
 
             Console.ReadKey();
             }
